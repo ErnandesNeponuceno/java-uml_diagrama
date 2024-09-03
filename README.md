@@ -51,7 +51,7 @@ classDiagram
 
 Clone o Repositório: Use o comando abaixo no seu terminal para clonar o repositório:
 
-git clone <url-do-repositorio>
+`git clone https://github.com/ErnandesNeponuceno/java-uml_diagrama`
 
 Navegue até a pasta do projeto e abra-o na sua IDE Java favorita.
 
